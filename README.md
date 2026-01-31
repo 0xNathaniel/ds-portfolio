@@ -53,6 +53,8 @@ This portfolio repository showcases my notable data science projects in the doma
 * Explainable AI (XAI)
 * Hyperparameter Optimization
 
+**Role:** image preprocessing, modeling and experiments, visualizations, xai, data validaiton, paper writing
+
 **Technologies:** PyTorch, Transformers (Hugging Face), torchvision, scikit-learn, PIL, CUDA/GPU acceleration
 
 **Results:** Successfully implemented DINOv3-Huge model with custom classification head and comprehensive model evaluation metrics.
@@ -85,6 +87,8 @@ This portfolio repository showcases my notable data science projects in the doma
 * Statistical Inference & Hypothesis Testing
 * Recommender Systems
 
+**Role:** modeling, statistical testing, data visualization, data storytelling
+
 **Technologies:** Python, XGBoost, CatBoost, Sentence Transformers, scikit-learn, statsmodels, scipy, pandas, matplotlib, seaborn
 
 **Results:** Built comprehensive predictive models with high accuracy, identified statistically significant factors affecting movie popularity, and developed content-based recommendation system.
@@ -100,6 +104,8 @@ This portfolio repository showcases my notable data science projects in the doma
 * Feature Engineering & Selection
 * Model Interpretability (SHAP)
 * Cross-Validation Strategies
+
+**Role:** feature engineering, modeling and experiments, visualizations, shap, data visualization, paper writing
 
 **Technologies:** Python, CatBoost, XGBoost, LightGBM, SHAP, scikit-learn, pandas, NumPy, matplotlib, seaborn
 
@@ -132,6 +138,8 @@ This portfolio repository showcases my notable data science projects in the doma
 * Data Storytelling & Presentation
 * Market Research & Consumer Insights
 * Competitive Analysis
+
+**Role:** data research, data analysis, data visualization, data storytelling
 
 **Results:** 
 * 1st Winner - Talent Growth x MarkPlus National Business Case Competition (2025)
