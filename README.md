@@ -108,7 +108,7 @@ This portfolio repository showcases my notable data science projects in the doma
 
 **Technologies:** Python, CatBoost, XGBoost, LightGBM, SHAP, scikit-learn, pandas, NumPy, matplotlib, seaborn
 
-**Results:** Won 1st place in Talent Growth x MarkPlus National Business Case Competition. Achieved high prediction accuracy (low MAE) through ensemble modeling and hyperparameter optimization.
+**Results:** Achieved high prediction accuracy (low MAE) through ensemble modeling and hyperparameter optimization with model generalization (finished 6th on public leaderboard and 3rd on private leaderboard).
 
 ---
 
