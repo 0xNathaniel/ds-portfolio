@@ -21,7 +21,7 @@
 
 ## Welcome!
 
-This portfolio repository showcases my notable data science projects in the domains of **machine learning**, **deep learning**, **statistical modeling and testing**, **data visualization**, and **data storytelling**. I also included data and business consulting projects, some of which won case competitions and highlight my data visualization and storytelling skills. Several projects featured here are from competitions I joined, university projects, and external courses I completed.
+This portfolio repository showcases my notable data science projects in the domains of **machine learning**, **deep learning**, **statistical modeling and testing**, **data visualization**, and **data storytelling**. I also included data and business consulting projects, some of which have won case competitions and they will better highlight my data visualization and storytelling skills. Several projects featured here are from competitions I joined, university projects, and external courses I completed.
 
 **Contact Information:**
 * **LinkedIn:** [Nathaniel Jonathan Rusli](https://www.linkedin.com/in/nathanieljr/)
@@ -71,9 +71,9 @@ This portfolio repository showcases my notable data science projects in the doma
 * Data Visualization & Storytelling
 * Business Intelligence
 
-**Technologies:** Python, pandas, NumPy, scikit-learn, matplotlib, seaborn, hvPlot
+**Technologies:** Python, pandas, NumPy, scikit-learn, CatBoost, matplotlib, seaborn, hvPlot
 
-**Results:** Delivered data-driven insights on employee attrition patterns and factors, with interactive visualizations for stakeholder presentations. Achieved Outstanding Student recognition (Top 21 out of 7,724 students).
+**Results:** Delivered data-driven insights on employee attrition patterns and factors, with interactive visualizations for stakeholder presentations.
 
 ---
 
@@ -90,7 +90,7 @@ This portfolio repository showcases my notable data science projects in the doma
 
 **Technologies:** Python, XGBoost, CatBoost, Sentence Transformers, scikit-learn, statsmodels, scipy, pandas, matplotlib, seaborn
 
-**Results:** Built comprehensive predictive models with high accuracy, identified statistically significant factors affecting movie popularity, and developed content-based recommendation system.
+**Results:** Built comprehensive predictive models with high accuracy, identified statistically significant factors affecting movie popularity. Submitted to Informatics Festival Data Analysis Comeptition and won 1st place.
 
 ---
 
@@ -124,7 +124,7 @@ This portfolio repository showcases my notable data science projects in the doma
 
 **Technologies:** Python, NumPy, pandas, matplotlib
 
-**Results:** Generated 10,000 simulated fair value projections with statistical distributions, enabling data-driven investment decisions under uncertainty. Applied to Investment Festival Equity Research Competition (Top 5 Finalist).
+**Results:** Generated 10,000 simulated fair value projections with statistical distributions, enabling data-driven investment decisions under uncertainty. Applied as part to Investment Festival Equity Research Competition (Top 5 Finalist).
 
 ---
 
