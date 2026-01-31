@@ -1,5 +1,5 @@
 <div align="center"> 
-  <h1>📊 Data Science Portfolio</h1>
+  <h1>Data Science Portfolio</h1>
   <h3>by Nathaniel Jonathan Rusli</h3>
   
   ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
