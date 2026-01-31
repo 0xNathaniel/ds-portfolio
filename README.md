@@ -142,7 +142,6 @@ This portfolio repository showcases my notable data science projects in the doma
 
 **Results:** 
 * 1st Winner - Talent Growth x MarkPlus National Business Case Competition (2025)
-* 1st Winner - Informatics Festival Data Analysis Competition (2025)
 * 1st Winner - StudentsxCEOs Global Summit Business Case Competition (2024)
 
 ---
