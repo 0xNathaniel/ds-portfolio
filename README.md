@@ -49,13 +49,13 @@ This portfolio repository showcases my notable data science projects in the doma
 
 **Key Areas:**
 * Deep Learning & Computer Vision
-* Transfer Learning with Vision Transformers
+* Transfer Learning
 * Explainable AI (XAI)
 * Hyperparameter Optimization
 
 **Role:** image preprocessing, modeling and experiments, visualizations, xai, data validaiton, paper writing
 
-**Technologies:** PyTorch, Transformers (Hugging Face), torchvision, scikit-learn, PIL, CUDA/GPU acceleration
+**Technologies:** PyTorch, DINOv3, Transformers (Hugging Face), CNN, torchvision, scikit-learn, PIL, CUDA/GPU acceleration
 
 **Results:** Successfully implemented DINOv3-Huge model with custom classification head and comprehensive model evaluation metrics.
 
@@ -85,7 +85,6 @@ This portfolio repository showcases my notable data science projects in the doma
 * Machine Learning (Regression & Classification)
 * Natural Language Processing (NLP)
 * Statistical Inference & Hypothesis Testing
-* Recommender Systems
 
 **Role:** modeling, statistical testing, data visualization, data storytelling
 
