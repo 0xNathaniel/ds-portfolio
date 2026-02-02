@@ -168,6 +168,7 @@ This portfolio repository showcases my notable data science projects in the doma
 
 ## Certifications
 
+* **Global Consumer Intelligence (GCI) Global 2025**  Matsuo-Iwasawa Lab University of Tokyo
 * [**Machine Learning Specialization**](https://www.coursera.org/account/accomplishments/specialization/KLEJ2JNX83UB) - Stanford University & DeepLearning.AI
 * [**Unsupervised Learning, Recommenders, Reinforcement Learning**](https://www.coursera.org/account/accomplishments/verify/CAB0RF4JMSW9) - Stanford University & DeepLearning.AI
 * [**Advanced Learning Algorithm**](https://www.coursera.org/account/accomplishments/verify/G8BVCEZYSRNE) - Stanford University & DeepLearning.AI
