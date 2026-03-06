@@ -15,6 +15,8 @@
   ![SHAP](https://img.shields.io/badge/SHAP-FF6B6B?style=for-the-badge&logo=python&logoColor=white)
   ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white)
   ![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white)
+  ![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+  ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
   ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 </div>
@@ -32,8 +34,9 @@ This portfolio repository showcases my notable data science projects in the doma
 ## Achievements
 
 * **[International, 2025]** Outstanding Student of Global Consumer Intelligence Course (Top 21 out of 7,724)
-* **[National, 2025]** 5th Place Finalist of Logika UI Data Science Competition
+* **[National, 2026]** 2nd Winner of ARA Data Science Competition
 * **[National, 2025]** 1st Winner of Informatics Festival Data Analysis Competition
+* **[National, 2025]** 5th Place Finalist of Logika UI Data Science Competition
 * **[National, 2025]** Top 5 Finalist of Investment Festival Equity Research Competition
 * **[National, 2025]** 1st Winner of Talent Growth x MarkPlus National Business Case Competition
 * **[National, 2024]** 1st Winner of StudentsxCEOs Global Summit Business Case Competition
@@ -43,25 +46,43 @@ This portfolio repository showcases my notable data science projects in the doma
 
 ## Projects
 
-### 1. [Cultural Image Classification with DINOv3 & XAI](Cultural%20Image%20Classification%20with%20DINOv3%20&%20XAI/)
+### 1. [Pothole Semantic Segmentation with EoMT](Pothole%20Semantic%20Segmentation%20with%20EoMT/)
+
+**Description:** Built a complete end-to-end pothole semantic segmentation pipeline using the **Encoder-only Mask Transformer (EoMT)** as the primary model, with a ViT-Large backbone pre-trained via DINOv3 Masked Image Modeling. The project covers in-depth EDA (sharpness with Laplacian Variance, brightness with Mean Pixel Intensity, spatial centroid with Image Moments, pixel density, and pothole scale profiling), stratified data splitting, geometric-only augmentation strategy, custom Dice + BCE loss, objectness-weighted query aggregation, and Test-Time Augmentation (TTA) with flip-based ensembling for more robust inference.
+
+**Key Areas:**
+* Computer Vision & Semantic Segmentation
+* Vision Transformers (ViT) & Transfer Learning
+* Fine-Tuning & Custom Loss Design
+* Test-Time Augmentation (TTA)
+
+**Role:** data exploration and auditing, preprocessing and augmentation, modeling and experiments, loss design, TTA inference, visualizations, slide building
+
+**Technologies:** PyTorch, EoMT-DINOv3 (Hugging Face Transformers), albumentations, OpenCV, PIL, scikit-learn, pandas, NumPy, matplotlib
+
+**Results:** Achieved competitive Dice Coefficient segmentation performance using EoMT-DINOv3 (eomt-dinov3-ade-semantic-large-512) fine-tuned on the pothole dataset with stratified validation and TTA inference. *This project was submitted for ARA 7.0 Data Science Competition, finished 2nd place (national)*
+
+---
+
+### 2. [Cultural Image Classification with DINOv3 & XAI](Cultural%20Image%20Classification%20with%20DINOv3%20&%20XAI/)
 
 **Description:** Implemented state-of-the-art DINOv3 (Huge variant) model for cultural image classification with explainable AI techniques. The project includes comprehensive EDA, feature extraction using facebook/dinov3-vith16plus-pretrain-lvd1689m, custom classification head design, and hyperparameter tuning to achieve optimal performance.
 
 **Key Areas:**
 * Deep Learning & Computer Vision
 * Transfer Learning
+* Fine Tuning
 * Explainable AI (XAI)
-* Hyperparameter Optimization
 
 **Role:** image preprocessing, modeling and experiments, visualizations, xai, data validaiton, paper writing
 
-**Technologies:** PyTorch, DINOv3, Transformers (Hugging Face), CNN, torchvision, scikit-learn, PIL, CUDA/GPU acceleration
+**Technologies:** PyTorch, DINOv3, Transformers (Hugging Face), CNN, OpenCV, PIL, torchvision, scikit-learn, PIL
 
-**Results:** Successfully implemented DINOv3-Huge model with custom classification head and comprehensive model evaluation metrics.
+**Results:** Successfully implemented DINOv3-Huge model with custom classification head and comprehensive model evaluation metrics. *This project was submitted for Logika UI (Universitas Indonesia) Data Science Competition, finished 5th place (national)*
 
 ---
 
-### 2. [IBM Employee Churn Data Consulting](IBM%20Employee%20Churn%20Data%20Consulting/)
+### 3. [IBM Employee Churn Data Consulting](IBM%20Employee%20Churn%20Data%20Consulting/)
 
 **Description:** Comprehensive data consulting project analyzing IBM HR Analytics Employee Attrition & Performance dataset with over 44 features and 1,470 entries. Developed predictive models to identify key factors driving employee churn and provided actionable business recommendations. Project completed as the final assignment for Global Consumer Intelligence Course (GCIC).
 
@@ -77,7 +98,7 @@ This portfolio repository showcases my notable data science projects in the doma
 
 ---
 
-### 3. [Movie Popularity Analysis with ML, DL & Statistics](Movie%20Popularity%20Analysis%20with%20ML,%20DL%20&%20Statistics/)
+### 4. [Movie Popularity Analysis with ML, DL & Statistics](Movie%20Popularity%20Analysis%20with%20ML,%20DL%20&%20Statistics/)
 
 **Description:** Multi-faceted analysis of movie popularity combining machine learning, deep learning, and statistical methods. Implemented regression models (XGBoost, CatBoost), NLP techniques (TF-IDF, Sentence Transformers), and statistical hypothesis testing (Spearman correlation, Mann-Whitney U, Kruskal-Wallis) to predict and explain movie popularity factors.
 
@@ -88,13 +109,13 @@ This portfolio repository showcases my notable data science projects in the doma
 
 **Role:** modeling, statistical testing, data visualization, data storytelling
 
-**Technologies:** Python, XGBoost, CatBoost, Sentence Transformers, scikit-learn, statsmodels, scipy, pandas, matplotlib, seaborn
+**Technologies:** Python, XGBoost, CatBoost, IndoBERT, Sentence Transformers, scikit-learn, statsmodels, scipy, pandas, matplotlib, seaborn
 
-**Results:** Built comprehensive predictive models with high accuracy, identified statistically significant factors affecting movie popularity. Submitted to Informatics Festival Data Analysis Comeptition and won 1st place.
+**Results:** Built comprehensive predictive models with high accuracy, identified statistically significant factors affecting movie popularity. *This project was submitted for Informatics Festival Unpad (Universitas Padjadjaran) Data Analysis Competition, finished 1st place (national)*
 
 ---
 
-### 4. [Talent Salary Prediction](Talent%20Salary%20Prediction/)
+### 5. [Talent Salary Prediction](Talent%20Salary%20Prediction/)
 
 **Description:** Advanced machine learning solution for predicting talent salaries in the data analytics industry. Implemented ensemble methods (CatBoost, XGBoost, LightGBM) with extensive feature engineering, K-Fold cross-validation, and SHAP values for model interpretability. Team project that secured 1st place in a national business case competition.
 
@@ -109,12 +130,14 @@ This portfolio repository showcases my notable data science projects in the doma
 **Technologies:** Python, CatBoost, XGBoost, LightGBM, SHAP, scikit-learn, pandas, NumPy, matplotlib, seaborn
 
 **Results:** Achieved high prediction accuracy (low MAE) through ensemble modeling and hyperparameter optimization with model generalization (finished 6th on public leaderboard and 3rd on private leaderboard).
+*This project was submitted for Informatics Festival Unpad (Universitas Padjadjaran) Data Analysis Competition, finished 1st place (national)*
 
 ---
 
-### 5. [Monte Carlo Simulation for Stock Valuation](Monte%20Carlo%20Simulation/)
+### 6. [Monte Carlo Simulation for Stock Valuation](Monte%20Carlo%20Simulation/)
 
 **Description:** Implemented Monte Carlo simulation (10,000 iterations) for Sum-of-the-Parts (SOTP) stock valuation, combining Discounted Cash Flow (DCF) analysis and Enterprise Value multiples. The simulation accounts for uncertainty in key financial parameters (WACC, growth rate, EV/EBIT multiples, holding discount) to generate probabilistic valuation distributions.
+*This project was submitted for Investment Festival ITB (Institut Teknologi Bandung) Equity Research Competition, finished 4th place (national)*
 
 **Key Areas:**
 * Monte Carlo Simulation
@@ -128,7 +151,7 @@ This portfolio repository showcases my notable data science projects in the doma
 
 ---
 
-### 6. [Business Case Competitions](Business%20Case%20Competitions/)
+### 7. [Business Case Competitions](Business%20Case%20Competitions/)
 
 **Description:** Collection of winning business case competition projects demonstrating data analytics, strategic thinking, and business storytelling capabilities. Projects include market analysis, consumer insights, competitive intelligence, and data-driven strategy recommendations.
 
@@ -170,6 +193,10 @@ This portfolio repository showcases my notable data science projects in the doma
 
 * **Global Consumer Intelligence (GCI) Global 2025**  Matsuo-Iwasawa Lab University of Tokyo
 * [**Machine Learning Specialization**](https://www.coursera.org/account/accomplishments/specialization/KLEJ2JNX83UB) - Stanford University & DeepLearning.AI
+* [**Neural Networks and Deep Learning**](https://www.coursera.org/account/accomplishments/verify/W3WQYCCPQJJD) - DeepLearning.AI
+* [**Improving Depe Neural Networks: Hyperparameter Tuning, Regularization and Optimization**](https://www.coursera.org/account/accomplishments/verify/XKP2YUWIHZE7) - DeepLearning.AI
+* [**Structuring Machine Learning Projects**](https://www.coursera.org/account/accomplishments/verify/3WG65QJE5QGL) - DeepLearning.AI
+* [**Neural Networks and Deep Learning**](https://www.coursera.org/account/accomplishments/verify/W3WQYCCPQJJD) - DeepLearning.AI
 * [**Unsupervised Learning, Recommenders, Reinforcement Learning**](https://www.coursera.org/account/accomplishments/verify/CAB0RF4JMSW9) - Stanford University & DeepLearning.AI
 * [**Advanced Learning Algorithm**](https://www.coursera.org/account/accomplishments/verify/G8BVCEZYSRNE) - Stanford University & DeepLearning.AI
 * [**Supervised Machine Learning: Regression and Classification**](https://www.coursera.org/account/accomplishments/verify/3EWVRDR2E9KA) - Stanford University & DeepLearning.AI
