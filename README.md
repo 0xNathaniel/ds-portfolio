@@ -172,13 +172,13 @@ This portfolio repository showcases my notable data science projects in the doma
 ## Core Competencies
 
 **Technical Skills:**
-* **Machine Learning:** Supervised Learning (Regression, Classification), Unsupervised Learning, Ensemble Methods, Hyperparameter Tuning
-* **Deep Learning:** Computer Vision, Transfer Learning, Vision Transformers, PyTorch, Basic NLP
+* **Machine Learning:** Supervised Learning (Regression, Classification), Unsupervised Learning, Ensemble Methods, Hyperparameter Tuning, etc.
+* **Deep Learning:** Transfer Learning, Fine Tuning, Computer Vision, Basic NLP
 * **Statistics:** Probability Theory, Statistical Inference, Hypothesis Testing, Stochastic Processes
-* **Mathematics:** Calculus, Linear Algebra, Optimization
+* **Mathematics:** Calculus, Linear Algebra, Optimization Theory
 * **Data Analysis:** EDA, Feature Engineering, Data Preprocessing, Data Visualization
-* **Database & SQL:** Database Design (Normalization, BCNF), Database Management Systems (DBMS), Query Optimization, Complex SQL Queries, Relational Database Modeling
-* **Programming:** Python, SQL
+* **Database & SQL:** Database Design (Normalization, BCNF), Database Management Systems (DBMS), Query Optimization, Complex SQL Queries, Relational Database Modeling, ETL/ELT Concepts
+* **Programming:** Python, SQL, C, C++, Java, JavaScript, HTML, CSS
 * **Tools & Libraries:** PyTorch, TensorFlow, scikit-learn, pandas, NumPy, matplotlib, seaborn, XGBoost, CatBoost, LightGBM, SHAP
 
 **Soft Skills:**
