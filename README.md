@@ -191,18 +191,23 @@ This portfolio repository showcases my notable data science projects in the doma
 
 ## Certifications
 
-* **Global Consumer Intelligence (GCI) Global 2025**  Matsuo-Iwasawa Lab University of Tokyo
-* [**Machine Learning Specialization**](https://www.coursera.org/account/accomplishments/specialization/KLEJ2JNX83UB) - Stanford University & DeepLearning.AI
-* [**Neural Networks and Deep Learning**](https://www.coursera.org/account/accomplishments/verify/W3WQYCCPQJJD) - DeepLearning.AI
-* [**Improving Depe Neural Networks: Hyperparameter Tuning, Regularization and Optimization**](https://www.coursera.org/account/accomplishments/verify/XKP2YUWIHZE7) - DeepLearning.AI
-* [**Structuring Machine Learning Projects**](https://www.coursera.org/account/accomplishments/verify/3WG65QJE5QGL) - DeepLearning.AI
-* [**Neural Networks and Deep Learning**](https://www.coursera.org/account/accomplishments/verify/W3WQYCCPQJJD) - DeepLearning.AI
-* [**Unsupervised Learning, Recommenders, Reinforcement Learning**](https://www.coursera.org/account/accomplishments/verify/CAB0RF4JMSW9) - Stanford University & DeepLearning.AI
-* [**Advanced Learning Algorithm**](https://www.coursera.org/account/accomplishments/verify/G8BVCEZYSRNE) - Stanford University & DeepLearning.AI
-* [**Supervised Machine Learning: Regression and Classification**](https://www.coursera.org/account/accomplishments/verify/3EWVRDR2E9KA) - Stanford University & DeepLearning.AI
-* [**Introduction to Financial Engineering and Risk Management**](https://www.coursera.org/account/accomplishments/verify/EWJZ21IHHKQB) - Columbia University
-* [**CS50's Introduction to Programming with Python**](https://certificates.cs50.io/a79b3f82-7a4d-4a48-b37f-4f3abf1918bb.pdf?size=letter) - Harvard University
-* [**CS50x Introduction to Computer Science**](https://certificates.cs50.io/705606de-ff53-4e7f-a400-19b6195f6759.pdf?size=letter) - Harvard University
+### [Deep Learning Specialization](https://www.coursera.org/account/accomplishments/specialization/1YRRMJVWY97X) - DeepLearning.AI
+* [Neural Networks and Deep Learning](https://www.coursera.org/account/accomplishments/verify/W3WQYCCPQJJD)
+* [Improving Deep Neural Networks: Hyperparameter Tuning, Regularization and Optimization](https://www.coursera.org/account/accomplishments/verify/XKP2YUWIHZE7)
+* [Structuring Machine Learning Projects](https://www.coursera.org/account/accomplishments/verify/3WG65QJE5QGL)
+* [Convolutional Neural Networks](https://www.coursera.org/account/accomplishments/verify/ZRYRNMLO881D)
+* [Sequence Models](https://www.coursera.org/account/accomplishments/verify/LY4HVGUMF38X)
+
+### [Machine Learning Specialization](https://www.coursera.org/account/accomplishments/specialization/KLEJ2JNX83UB) - Stanford University & DeepLearning.AI
+* [Supervised Machine Learning: Regression and Classification](https://www.coursera.org/account/accomplishments/verify/3EWVRDR2E9KA)
+* [Advanced Learning Algorithms](https://www.coursera.org/account/accomplishments/verify/G8BVCEZYSRNE)
+* [Unsupervised Learning, Recommenders, Reinforcement Learning](https://www.coursera.org/account/accomplishments/verify/CAB0RF4JMSW9)
+
+### Other Certifications
+* [Global Consumer Intelligence (GCI) Global 2025]() - Matsuo-Iwasawa Lab University of Tokyo
+* [Introduction to Financial Engineering and Risk Management](https://www.coursera.org/account/accomplishments/verify/EWJZ21IHHKQB) - Columbia University
+* [CS50's Introduction to Programming with Python](https://certificates.cs50.io/a79b3f82-7a4d-4a48-b37f-4f3abf1918bb.pdf?size=letter) - Harvard University
+* [CS50x Introduction to Computer Science](https://certificates.cs50.io/705606de-ff53-4e7f-a400-19b6195f6759.pdf?size=letter) - Harvard University
 
 ---
 
